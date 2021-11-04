@@ -15,3 +15,7 @@ Then, in the directory, run <code> py AI_game.py </code> to test your AI perform
 
 The GUI will automatically pops up, and AI will start search.
 
+## Todo
+
+- [ xx] AI_Minimax.py
+- [ ] AI_Heuristics.py
