@@ -18,4 +18,4 @@ The GUI will automatically pops up, and AI will start search.
 ## Todo
 
 - [x] AI_Minimax.py
-- [ ] AI_Heuristics.py
+- [x] AI_Heuristics.py
