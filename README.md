@@ -1,6 +1,6 @@
-# 2048-AI-Starter-Code
+# 2048-AI
 
-This is the starter code for 2048 AI project
+This is the starter code for 2048 AI project for IEEE Fall 2020
 1. User_game: The traditional one-human-player 2048 game
 2. AI_game: Run one-AI-player 2048 game
 3. AI_Move: the basic tile move/merge logic based on 2048 rules
